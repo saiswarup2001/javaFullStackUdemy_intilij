@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA_String/DSA_String.iml" filepath="$PROJECT_DIR$/DSA/DSA_String/DSA_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/Dsa_Arrays/Dsa_Arrays.iml" filepath="$PROJECT_DIR$/DSA/Dsa_Arrays/Dsa_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandels/ExceptionHandels.iml" filepath="$PROJECT_DIR$/ExceptionHandels/ExceptionHandels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRankSolution/HackerRankSolution.iml" filepath="$PROJECT_DIR$/HackerRankSolution/HackerRankSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface and abstract class/Interface/Interface.iml" filepath="$PROJECT_DIR$/interface and abstract class/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oopsin1video/Oopsin1video.iml" filepath="$PROJECT_DIR$/Oopsin1video/Oopsin1video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionFramework/collectionFramework.iml" filepath="$PROJECT_DIR$/collectionFramework/collectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface and abstract class/interface and abstract class.iml" filepath="$PROJECT_DIR$/interface and abstract class/interface and abstract class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFlowControl/javaFlowControl.iml" filepath="$PROJECT_DIR$/javaFlowControl/javaFlowControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFullStackUdemy.iml" filepath="$PROJECT_DIR$/javaFullStackUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticeProblem/jspider class ass/jspider class ass.iml" filepath="$PROJECT_DIR$/praticeProblem/jspider class ass/jspider class ass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oopsin1video/oopsRevesion/oopsRevesion.iml" filepath="$PROJECT_DIR$/Oopsin1video/oopsRevesion/oopsRevesion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticeProblem/pattern/pattern.iml" filepath="$PROJECT_DIR$/praticeProblem/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticeProblem/praticeProblem.iml" filepath="$PROJECT_DIR$/praticeProblem/praticeProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/projects.iml" filepath="$PROJECT_DIR$/projects/projects.iml" />
+    </modules>
+  </component>
+</project>
