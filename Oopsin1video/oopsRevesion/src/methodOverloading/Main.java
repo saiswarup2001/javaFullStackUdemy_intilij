@@ -11,3 +11,13 @@ public class Main {
 
     }
 }
+
+/*
+Method Overloading
+--> In the same class, we can define 2 or more method with same name but the arguments and return types must be different.
+
+Rules:
+-> Arguments must be different
+-> number of arguments is different
+
+*/
