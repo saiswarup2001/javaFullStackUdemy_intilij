@@ -17,7 +17,7 @@ public class partyProblem {
                 +"\n"+"sheela took 1000 from each and the total amount is: "+ totalAmount);
         int leftAmount = totalAmount - amount;
         System.out.println("The total amount left after the party is: "+ leftAmount);
-        int returnAmount = leftAmount/frnd;
+        int returnAmount = leftAmount/(frnd+1);
         System.out.println("So sheela return money to each fellow is: "+ returnAmount);
 
     }
