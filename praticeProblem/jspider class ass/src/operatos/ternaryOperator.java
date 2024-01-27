@@ -53,8 +53,24 @@ class logicalNot {
 }
 class A{
     public static void main(String[] args){
+
+        //01
         int i = 56;
         boolean a = ((i%7==0) && (i%14==0) &&(i%3!=0));
         System.out.println((a == true)? "div by 14,7": "div by 3 only");
+
+        //02
+        int a1 = 10, b = 20, c = 30;
+        int d = (a1++)+(b++)+(c++)-(++a1)-(++b)-(++c);
+        System.out.println(a1);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+
+        //03
+        int x = 30, y = 40;
+        int z = x+y;
+        System.out.println(x+" + "+ y +" = "+ z);
     }
 }
+
