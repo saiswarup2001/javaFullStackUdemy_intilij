@@ -14,7 +14,7 @@ class AreaRect{
         System.out.println(len*bre);
     }
 }
-public class staticMethod {
+public class NonstaticMethod {
     public static void main(String[] args) {
         AreaRect a = new AreaRect(3, 4);
         AreaRect b = new AreaRect(11, 22);
