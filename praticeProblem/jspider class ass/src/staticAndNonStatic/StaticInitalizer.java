@@ -9,6 +9,6 @@ public class StaticInitalizer {
     }
 
     static{
-        System.out.println("Static block 2");
+        System.out.println("Static blockyes  2");
     }
 }
