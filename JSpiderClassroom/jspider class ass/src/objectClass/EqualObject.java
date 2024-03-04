@@ -15,6 +15,10 @@ class Cir{
         return rad == cir.rad;
     }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(rad);
+    }
 }
 public class EqualObject {
     public static void main(String[] args) {
